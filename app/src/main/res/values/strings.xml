@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">BenhmadHana_TP1</string>
+    <string name="titre">Mesure de niveau de glycémie</string>
+    <string name="hint_age">Votre âge</string>
+    <string name="question_jeune">Est-ce que vous jeûnez ?</string>
+    <string name="oui">Oui</string>
+    <string name="non">Non</string>
+    <string name="unite">Unité de mesure</string>
+    <string name="unite_gl">g/L</string>
+    <string name="unite_mgdl">mg/dL</string>
+    <string name="hint_glycemie_gl">Niveau de glycémie (g/L)</string>
+    <string name="hint_glycemie_mgdl">Niveau de glycémie (mg/dL)</string>
+    <string name="btn_consulter">CONSULTER</string>
+    <string name="btn_effacer">EFFACER</string>
+    <string name="avertissement">Résultat indicatif. Il ne remplace pas l\'avis d\'un médecin.</string>
+    <string name="err_age">Entrez un âge valide (1 à 120)</string>
+    <string name="err_jeune">Indiquez si vous jeûnez</string>
+    <string name="err_gl">Entrez une valeur valide en g/L (ex : 0.95)</string>
+    <string name="err_mgdl">Entrez une valeur valide en mg/dL (ex : 95)</string>
+    <string name="res_hypo">Hypoglycémie : consultez un médecin</string>
+    <string name="res_normale">Glycémie normale</string>
+    <string name="res_limite">Glycémie un peu élevée (surveillez-vous)</string>
+    <string name="res_elevee">Glycémie élevée : consultez un médecin</string>
+</resources>
